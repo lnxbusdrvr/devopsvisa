@@ -33,3 +33,5 @@ def run_test(questions):
     
 # Kutsutaan aliohjelma
 run_test(questions)
+
+# Koodi kopioitu lähteestä: https://www.youtube.com/watch?v=SgQhwtIoQ7o
