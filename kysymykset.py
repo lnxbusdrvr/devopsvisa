@@ -5,3 +5,5 @@ class Question:
         self.prompt = prompt
         self.answer = answer
         
+# Koodi kopioitu https://www.youtube.com/watch?v=SgQhwtIoQ7o
+        
